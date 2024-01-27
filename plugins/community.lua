@@ -16,6 +16,8 @@ return {
   { import = "astrocommunity.indent.indent-blankline-nvim" },
   { import = "astrocommunity.indent.mini-indentscope" },
 
+  { import = "astrocommunity.motion.leap-nvim" },
+
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
 
   { import = "astrocommunity.pack.typescript" },
