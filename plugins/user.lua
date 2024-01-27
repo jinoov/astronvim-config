@@ -49,4 +49,14 @@ return {
       mode = "foreground", -- Set the display mode.
     },
   },
+  {
+    "ctrlpvim/ctrlp.vim",
+    opts = {
+      wildignore = "*/tmp/*,*.so,*.swp,*.zip",
+      custom_ignore = "\v[/].(git|hg|svn)$",
+    },
+  },
+  {
+    "vim-airline/vim-airline",
+  },
 }
