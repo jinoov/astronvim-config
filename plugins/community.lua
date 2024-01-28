@@ -13,6 +13,10 @@ return {
 
   { import = "astrocommunity.completion.tabnine-nvim" },
 
+  { import = "astrocommunity.editing-support.treesj" },
+
+  { import = "astrocommunity.git.git-blame-nvim" },
+
   { import = "astrocommunity.indent.indent-blankline-nvim" },
   { import = "astrocommunity.indent.mini-indentscope" },
 
